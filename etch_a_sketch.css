@@ -1,0 +1,10 @@
+.grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    background-color: pink;
+    height: 497px;
+    width: 497px;
+}
